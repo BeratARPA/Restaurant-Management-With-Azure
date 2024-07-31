@@ -5,7 +5,7 @@
 This project is a restaurant management system developed in a multi-tier architecture with Azure. The application provides different functionalities for restaurant owners and customers.
 
 ## Screenshot
-![Customer Interface](path/to/your/image1.png)
+![Customer Interface](Screenshots/portfolio-6.jpg)
 
 ## Features
 
