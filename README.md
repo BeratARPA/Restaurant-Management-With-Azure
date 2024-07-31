@@ -67,7 +67,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to contact me:
 - **Email**: [beratarpa@hotmail.com](mailto:beratarpa@hotmail.com)
-- **GitHub**: [https://github.com/BeratARPA/Restaurant-Management-With-Azure](https://github.com/BeratARPA/Restaurant-Management-With-Azure)
+- **GitHub**: [https://github.com/BeratARPA/Restaurant-Management-With-Azure](https://github.com/BeratARPA)
 
 ## Screenshots
 
