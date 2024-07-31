@@ -35,7 +35,7 @@ This project is a restaurant management system developed in a multi-tier archite
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/Restaurant-Management-With-Azure.git
+    git clone https://github.com/BeratARPA/Restaurant-Management-With-Azure.git
     ```
 2. **Open with Visual Studio**: Open the project with Visual Studio.
 3. **Install Dependencies**: Install project dependencies.
@@ -66,8 +66,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions or feedback, feel free to contact me:
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
+- **Email**: [beratarpa@hotmail.com](mailto:beratarpa@hotmail.com)
+- **GitHub**: [https://github.com/BeratARPA/Restaurant-Management-With-Azure](https://github.com/BeratARPA/Restaurant-Management-With-Azure)
 
 ## Screenshots
 
